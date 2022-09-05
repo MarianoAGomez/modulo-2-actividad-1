@@ -1,0 +1,44 @@
+h1{
+    font-family: Arial;
+    background-color: blue;
+    text-align: center;
+    text-transform: uppercase; /*Mayúscula*/
+}
+
+h2{
+   font-size: italic;
+   text-align: center;
+   }
+
+p{
+        /* font-weight: bold; */
+   text-decoration-line: underline;
+   color: chocolate;
+   column-count: 5;
+   column-gap: 10px;
+   column-rule: 2px solid black;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: red;
+    text-align: center;
+}
+
+.destacado{
+    text-align: right;
+    color: green;
+}
+
+#caja{
+    background-color: blanchedalmond;
+    border-radius: 12px;
+    box-shadow: 20px 40px 5px green;
+    width: 30%;
+    width: 300px;
+    padding: 20px;
+    margin-left: 20px;
+    border: 5px solid blueviolet;
+}
+
